@@ -7,6 +7,6 @@ Architecture: iphoneos-arm
 Components: main
 Description: Autoios Pro v10 for iDevice Model 10.x - 12.2 & 12.4 & Checkra1n Jailbreaks
 MD5Sum:
- 63d4fc82fd413dc6cd97ff1b0721a51b 9662 Packages
- 0f1b4009697525ee93914ff5d4006814 2994 Packages.bz2
- 57a0b4d42890e4eb57d6fd97958bc81e 2687 Packages.gz
+ 97e0b1719d79919f1163daebd5cd4107 10802 Packages
+ fe693368bcbf1bc2640169c47e235b52 3118 Packages.bz2
+ e600dfe5596b1eff3a99264d0a3c5758 2764 Packages.gz
