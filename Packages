@@ -72,18 +72,18 @@ Size: 846726
 MD5sum: 592c59be45a65215455265990b779934
 
 Package: com.kidsautopro.kidsautosetting
-Name: Kids Auto Setting
-Version: 1.2-22
+Name: KidsAuto Settings
+Version: 1.6.23
 Architecture: iphoneos-arm
 Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
-Maintainer: Dev by KidsAuto Team
+Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/kidsauto91>
+Maintainer: Dev by KidsAuto Teams
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist, com.kidsautopro.kidssupport
 Conflicts: com.kidsprivate.kidsrestore, com.kidsauto.sslkillswitch2, com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport,com.kidsautopro.hookmob,com.kidsautopro.kidsauto (<= 10.0.0)
-Filename: ./Debs/KidsSetting.deb
-Size: 61778
-MD5sum: d73bf130abd08297192a690ffe4d96ac
+Filename: ./Debs/KidsSetting_1.6.23.deb
+Size: 48966
+MD5sum: 24ea03f9dc0de6a767668f04437749b9
 
 Package: com.kidsauto.addon
 Name: KidsAuto Addon
