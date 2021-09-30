@@ -1,5 +1,19 @@
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro v10
+Version: 10.9.20
+Architecture: iphoneos-arm
+Description: KidsAuto Pro iOS, Support from version 10.x - 14.x
+Author: KidsAuto Pro <https://www.facebook.com/autoios>
+Maintainer: KidsAuto Pro Teams
+Section: Tweaks
+Tag: role::hacker
+Depends: mobilesubstrate
+Filename: ./Debs/KidsAutoProv10_10.9.20_Public_FixSendText_WipeNew.deb
+Size: 780168
+MD5sum: e813f1d8febc5c3e3268279ef380a173
+
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro v10
 Version: 10.9.11
 Architecture: iphoneos-arm
 Description: KidsAuto Pro ver 10 Update 11/09/2021 , Hỗ trợ từ iOS 11 -> 12.2 (JB Unc0ver v4.3.1) && 12.3 - 14.x (JB Checkra1n)
