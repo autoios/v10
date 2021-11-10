@@ -3,7 +3,7 @@ Name: KidsAuto Pro v10
 Version: 10.11.10
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro 
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -106,7 +106,7 @@ Version: 1.11-10-1
 Architecture: iphoneos-arm
 Description: Utilities to support KidsAuto Pro!!!
 Maintainer: KidsAuto Teams
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro <https://www.facebook.com/autoios>
 Section: Utilities
 Icon: file:///Applications/kidsauto.app/AppIcon.png
 Depiction: http://kidsauto.github.io/pro
