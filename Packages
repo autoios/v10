@@ -1,16 +1,16 @@
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro v10
-Version: 10.11.10
+Version: 10.11.11
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro 
+Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
 Depends: mobilesubstrate
-Filename: ./Debs/KidsAutoProv10_Public_10.11.10_FixedBugs.deb
-Size: 797544
-MD5sum: 812e609220afc8afa0d2b7d8e55127f3
+Filename: ./Debs/KidsAutoProv10_Release_11112021.deb
+Size: 810904
+MD5sum: b1134b2c198c09aa0602716362e46cb2
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro v10
@@ -102,7 +102,7 @@ MD5sum: 39b6fc10e4b93cc766a45e80999ff15f
 
 Package: com.kidsautopro.kidssupport
 Name: Kids Support
-Version: 1.11-10-1
+Version: 1.11-10-2
 Architecture: iphoneos-arm
 Description: Utilities to support KidsAuto Pro!!!
 Maintainer: KidsAuto Teams
@@ -110,9 +110,9 @@ Author: KidsAuto Pro <https://www.facebook.com/autoios>
 Section: Utilities
 Icon: file:///Applications/kidsauto.app/AppIcon.png
 Depiction: http://kidsauto.github.io/pro
-Filename: ./Debs/KidsSupport_1.11-10-1_ShowingIPAddress.deb
-Size: 1175656
-MD5sum: d494119bdbd3fc7977ba76c8b1f85371
+Filename: ./Debs/KidsSupport_1.11-10-2.deb
+Size: 1180664
+MD5sum: 37366f13d004156ae949f1e4b524b8b0
 
 Author: akusio
 Maintainer: ichitaso
