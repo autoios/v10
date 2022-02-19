@@ -10,7 +10,7 @@ Tag: role::hacker
 Depends: mobilesubstrate
 Filename: ./Debs/KidsAutoProv10_ver10.11.12_FixBugs.deb
 Size: 808760
-MD5sum: e4afbc469ed8f99ba9339d8470898c15 
+MD5sum: 227f0759fca908aab7aa9b1bf8645b6f
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro v10
