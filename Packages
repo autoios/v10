@@ -1,5 +1,19 @@
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto Pro v10
+Version: 10.22.4~11
+Architecture: iphoneos-arm
+Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
+Author: KidsAuto Pro - Autoios <https://www.facebook.com/autoios>
+Maintainer: KidsAuto Pro Teams
+Section: Tweaks
+Tag: role::hacker
+Depends: mobilesubstrate
+Filename: ./Debs/KidsAutoPro_v10.22.4~11_ReleasePublic.deb
+Size: 828230
+MD5sum: 6cd8fd61161e968fa26874064ec7a39e
+
+Package: com.kidsautopro.kidsauto
+Name: KidsAuto Pro v10
 Version: 10.22.3~06
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
