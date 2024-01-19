@@ -219,6 +219,32 @@ Filename: ./Debs/KidsSetting_1.6.23.deb
 Size: 48966
 MD5sum: 24ea03f9dc0de6a767668f04437749b9
 
+Package: com.kidsautopro.kidsautosetting
+Name: KidsAuto Settings
+Version: 1.6.24
+Architecture: iphoneos-arm
+Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
+Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/autoios>
+Maintainer: Dev by KidsAuto Teams
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
+Filename: ./Debs/KidsSetting1624.deb
+Size: 48804
+MD5sum: 61dae4c5f1a284967b40d3faaa494169
+
+Package: jetslammed
+Name: Jetslammed
+Version: 1.3
+Architecture: iphoneos-arm
+Section: System
+Depends: firmware (>= 7)
+Author: Mario Ciabarra <https://github.com/mariociabarra/jetslammed>
+Maintainer: Mario Ciabarra <https://github.com/mariociabarra/jetslammed>
+Description: Library for modifying jetsam memory limits per process
+Filename: ./Debs/Jetslammed1_3.deb
+Size: 12324
+MD5sum: 51691faa6e8588256781d13ee4fa5ec1
+
 Package: com.kidsauto.addon
 Name: KidsAuto Addon
 Version: 1.0-3
